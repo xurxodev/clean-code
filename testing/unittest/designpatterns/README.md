@@ -1,3 +1,6 @@
+
+![](http://xurxodev.com/content/images/2017/04/xurxodev-readme.png) 
+
 # Design Patterns to Unit Tests
 Example of use of the Creation Method, Builder Pattern and Object Mother in Unit Tests
 
