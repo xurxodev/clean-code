@@ -3,4 +3,8 @@
     <string name="username_label">Login</string>
     <string name="password_label">Password</string>
     <string name="login_button">Login</string>
+    <string name="invalid_credentials_message">Invalid username or password</string>
+    <string name="demo_username">demo@xurxodev.com</string>
+    <string name="demo_password">demo</string>
+    <string name="login_success_message">Login success</string>
 </resources>
