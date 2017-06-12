@@ -6,6 +6,7 @@ Best practices, design patterns implemented by Jorge Sanchez aka xurxodev
 # Chapters
 
 * [Design Patterns for Unit Test](https://github.com/xurxodev/clean-code/tree/master/testing/unittest/designpatterns)
+* [Robot Pattern](https://github.com/xurxodev/clean-code/tree/master/testing/ui/robotpattern)
 
 ## Developed By
 
